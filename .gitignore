@@ -1,8 +1,0 @@
-alembic/
-env/
-./µ*
-__pycache__/
-.env
-alembic.ini
-*.db
-*.log

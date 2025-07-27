@@ -1,13 +1,15 @@
+![Logo](https://raw.githubusercontent.com/Harlequelrah/Library-ElrahAPI/main/Elrah.png)
+
 # Description
 
-Ceci est un projet backend d'API destiné à tester  elrahapi-testproject-v-1.1.9
+Ceci est un repository pour les versions tests de elrahapi . Le but est de tester les nouvelles fonctionnalités et de les intégrer dans la version . Il peut être également utiliser comme repository template . Vous trouverez les diverses versions sur les branches de ce repository . N'hesitez pas à contribuer si vous avez des idées ou des corrections et à utiliser les fonctionnalités de ce repository pour votre propre projet . Si vous rencontrer des difficultés ou trouver des erreurs , n'hésitez pas à me contacter .
 
 
 ## Installation
 
 - **Avec Github :**
   ```bash
-  git clone https://github.com/elrahapi-testproject-v-1.1.9
+  git clone https://github.com/elrahapi-testproject
 
   ```
 
@@ -56,9 +58,6 @@ ou
 - Pydantic
 - FASTAPI
 - SQLAlchemy
-
-## Documentation
-
 
 # Contact ou Support
 
