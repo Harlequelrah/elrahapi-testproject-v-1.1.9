@@ -1,12 +1,14 @@
 # Description
 
-Ceci est un projet backend d'API .
+Ceci est un projet backend d'API destiné à tester  elrahapi-testproject-v-1.1.9
+
 
 ## Installation
 
 - **Avec Github :**
   ```bash
-  git clone https://github.com/
+  git clone https://github.com/elrahapi-testproject-v-1.1.9
+
   ```
 
 ## Utilisation
@@ -57,14 +59,11 @@ ou
 
 ## Documentation
 
-- Models :
-
-  -
 
 # Contact ou Support
 
 Pour des questions ou du support, contactez-moi .
 
-- **`Mail`** : **user@example.com**
+- **`Mail`** : **maximeatsoudegbovi@example.com**
 
-- **`Telephone`** : ****
+- **`Telephone`** : **+228 91361029**

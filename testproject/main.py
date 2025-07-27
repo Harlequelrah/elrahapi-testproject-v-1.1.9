@@ -6,20 +6,11 @@ from .settings.models_metadata import target_metadata
 from .settings.database import database
 from .settings.auth.routers import role_router,privilege_router
 
-from .task.utils import task
-print(task)
 
-from .settings.auth.models import Role
-from elrahapi.authorization.role.schemas import RoleCreateModel
 
-role_create = RoleCreateModel(
-    name="ADMIN",
-    description="Administre le système",
-    is_active=True
-)
-role_dumped = role_create.model_dump()
-role = Role(**role_dumped)
-print(role)
+
+
+
 database.create_tables(target_metadata=target_metadata)
 app = FastAPI(
     root_path="/api"
