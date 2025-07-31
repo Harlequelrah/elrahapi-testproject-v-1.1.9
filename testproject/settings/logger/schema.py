@@ -1,5 +1,8 @@
 from elrahapi.middleware import models
+
+
 class LogReadModel(models.MetaLogReadModel):
-    subject: int | None = None
+    user_id: int | None = None
+
     class setting:
-        from_attributes=True
+        from_attributes = True
